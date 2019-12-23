@@ -51,5 +51,5 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 Create docker folder:
 ```console
-mkdir /home/docker
+mkdir /home/docker/transmission
 ```
